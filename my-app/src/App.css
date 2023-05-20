@@ -1,0 +1,33 @@
+
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.header{
+    color:#88d0f0;
+    text-align: center;
+}
+
+.shopping-list-item-input,
+.shopping-list-items input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.shopping-item-entry,
+.shopping-list-items{
+    text-align: center;
+}
+
+.shopping-list-items{
+    list-style-type: none;
+}
+
+button.btn {
+    padding: 10px;
+    margin: 0 20px;
+    background-color: #f4ddee;
+    border: none;
+    border-radius: 8px;
+}
